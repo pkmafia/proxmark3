@@ -22,6 +22,7 @@ version.c
 lua
 luac
 
+client/fpga_compress
 fpga/*
 !fpga/tests
 !fpga/fpga_lf.bit

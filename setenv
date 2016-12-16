@@ -1,0 +1,3 @@
+export DEVKITPRO=$HOME/isource/pm3/proxmark3/
+export DEVKITARM=$DEVKITPRO/devkitARM
+export PATH=${PATH}:${DEVKITARM}/bin
